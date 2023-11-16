@@ -1,4 +1,4 @@
-# Project Name
+# Project Name - Linear Regression Assignment
 > In this programming task, the objective is to construct a multiple linear regression model to forecast the demand for shared bikes. A Jupyter notebook will be submitted as part of the completion requirements.
 
 
